@@ -2,11 +2,18 @@
 
 <h2>1️⃣ Comment exécuter le code</h2>
 
-<ol>
-  <li>Exécute le script avec :</li>
-</ol>
+
+  <li> 1.Pour scrapper le site, exécute le script avec :</li>
+
 
 <pre><code>python3 groupe_8_github.py
+</code></pre>
+
+
+  <li>2.Pour faire un ranking, exécute le script avec :</li>
+
+
+<pre><code>python3 ranking.py
 </code></pre>
 
 <p>Le script va automatiquement lancer le scraping et créer plusieurs fichiers CSV dans le même dossier.</p>
